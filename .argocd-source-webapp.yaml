@@ -1,4 +1,4 @@
 kustomize:
   images:
   - 1nfosecsingh/mywebapp:v1.3
-  - mayman0/weatherapp-ui:v2.5
+  - mayman0/weatherapp-ui:v2.6
